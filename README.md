@@ -1,2 +1,11 @@
-# Froy-Beats
-FroyBeats is a music website that allows user to play/pause music. This website is all about streaming music of your choice. 
+# Music Player
+
+A music player built with **HTMLAudioElement** API and custom design.
+
+## Project Specifications
+
++ Custom UI
++ Song cover and other details are displayed
++ Play and Pause
++ Switch between songs
+
